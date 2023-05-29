@@ -17,4 +17,17 @@
 #     print("error")
 
 #2 задание
-meters int(input("ammout:"))
+# meters= int(input("meters:"))
+#
+# choice=int(input("1-miles, 2-inches, 3-yards"))
+# if choice== 1:
+#     miles = meters * 0.000621371
+#     print("miles: ", miles)
+# elif choice == 2:
+#     inches = meters * 39.3701
+#     print("inches: ", inches)
+# elif choice == 3:
+#     yards = meters * 1.09361
+#     print("yards: ", yards)
+# else:
+#     print("error")
